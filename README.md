@@ -5,7 +5,7 @@ Colab link: https://colab.research.google.com/drive/19eNRrRqSWQx3fxd4YuXyqN822D0
 
 Assignment 1.2: Use  AI Pair Programmer
 Below is a YouTube link where I've recorded and implemented a basic event registration website with the help of Github Copilot
-Link: https://youtu.be/ifushyxI1Ck
+Link: https://youtu.be/V3rKohK_SBs
 
 Assignment 1.3: Auto ML with akkio or jadbio or any other good zero code automl - trial version
 Below is a YouTube link where I've used Akkio for building an end to end Machine Learning model for diabetes detection
